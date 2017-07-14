@@ -1,0 +1,15 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="ConfirmationPage" type="JSP" />
+      <mapping pattern="PassengerInfo" type="JSP" />
+      <mapping pattern="TrainSelection" type="JSP" />
+      <mapping pattern="PaymentType" type="JSP" />
+      <mapping pattern="index" type="JSP" />
+      <mapping pattern="SeatsSelection" type="JSP" />
+      <mapping pattern="TransportSelection" type="JSP" />
+      <mapping pattern="DataConfirmation" type="JSP" />
+      <mapping pattern="aaa" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
